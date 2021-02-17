@@ -7,6 +7,8 @@
 
 Note: Project was previously known as coreos/prometheus-operator.
 
+Add test
+
 ## Overview
 
 The Prometheus Operator provides [Kubernetes](https://kubernetes.io/) native deployment and management of
